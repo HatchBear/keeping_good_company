@@ -1,4 +1,4 @@
-# [Insert company Name]
+# Cyberspace Consulting
 [mission statement]
 
 ## Size and Structure of company
