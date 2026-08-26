@@ -2,7 +2,7 @@
 [mission statement]
 
 ## Size and Structure of company
-  - ≈8,000 employees
+  - ≈350 employees
 	  - #### client facing Consultants
 		  -  Graduate Consultant
 		  - Consultant
