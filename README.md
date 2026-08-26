@@ -1,4 +1,4 @@
-# Cyberspace Consulting
+# CyberX Consulting
 [mission statement]
 
 ## Size and Structure of company
